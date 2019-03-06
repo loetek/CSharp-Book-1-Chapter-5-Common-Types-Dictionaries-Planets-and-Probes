@@ -1,0 +1,11 @@
+/Users/jdwheeler/workspace/C#/exercises/Planets-Dictionary/bin/Debug/netcoreapp2.2/Planets-Dictionary.deps.json
+/Users/jdwheeler/workspace/C#/exercises/Planets-Dictionary/bin/Debug/netcoreapp2.2/Planets-Dictionary.runtimeconfig.json
+/Users/jdwheeler/workspace/C#/exercises/Planets-Dictionary/bin/Debug/netcoreapp2.2/Planets-Dictionary.runtimeconfig.dev.json
+/Users/jdwheeler/workspace/C#/exercises/Planets-Dictionary/bin/Debug/netcoreapp2.2/Planets-Dictionary.dll
+/Users/jdwheeler/workspace/C#/exercises/Planets-Dictionary/bin/Debug/netcoreapp2.2/Planets-Dictionary.pdb
+/Users/jdwheeler/workspace/C#/exercises/Planets-Dictionary/obj/Debug/netcoreapp2.2/Planets-Dictionary.csprojAssemblyReference.cache
+/Users/jdwheeler/workspace/C#/exercises/Planets-Dictionary/obj/Debug/netcoreapp2.2/Planets-Dictionary.csproj.CoreCompileInputs.cache
+/Users/jdwheeler/workspace/C#/exercises/Planets-Dictionary/obj/Debug/netcoreapp2.2/Planets-Dictionary.AssemblyInfoInputs.cache
+/Users/jdwheeler/workspace/C#/exercises/Planets-Dictionary/obj/Debug/netcoreapp2.2/Planets-Dictionary.AssemblyInfo.cs
+/Users/jdwheeler/workspace/C#/exercises/Planets-Dictionary/obj/Debug/netcoreapp2.2/Planets-Dictionary.dll
+/Users/jdwheeler/workspace/C#/exercises/Planets-Dictionary/obj/Debug/netcoreapp2.2/Planets-Dictionary.pdb
